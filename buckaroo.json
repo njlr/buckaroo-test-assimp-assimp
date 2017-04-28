@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-assimp-assimp",
+  "dependencies": {
+    "assimp/assimp": "3.3.1",
+    "google/gtest": "1.8.0"
+  }
+}
